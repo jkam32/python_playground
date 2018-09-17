@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66c1570-7f0b-4caa-bae5-ce954e43c888" name="Default Changelist" comment="added ipython/jupyter notebook for easy learning">
-      <change afterPath="$PROJECT_DIR$/crash_course5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/crash_course5-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/crash_course5-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crash_course5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/crash_course5.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
